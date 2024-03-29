@@ -1,0 +1,3 @@
+C:/STM/twilite_test/twilite_test_receive/build/debug/build/CMakeFiles/twilite_test_receive.dir
+C:/STM/twilite_test/twilite_test_receive/build/debug/build/CMakeFiles/edit_cache.dir
+C:/STM/twilite_test/twilite_test_receive/build/debug/build/CMakeFiles/rebuild_cache.dir
